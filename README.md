@@ -10,7 +10,7 @@
 ### PROJECT : WEATHER MONITORING STATION
 
 ### OBJECTIVE 
-The objective of a real-time weather monitoriPublic safety: Governments and public safety organisations can use an IoT-based weather monitoring system to monitor weather conditions in their region, and to issue alerts and warnings when necessary.ng system using IoT is to collect, analyze, and disseminate weather data in real-time. This system aims to provide accurate and up-to-date weather information to users, enabling them to make informed decisions and take necessary precautions based on the current weather conditions. The system also helps in tracking and predicting weather patterns, providing early warning alerts for potential natural disasters, and im-proving the overall efficiency and effectiveness of weather-related activities.
+The objective of a real-time weather monitoring system using system using IoT is to collect, analyze, and disseminate weather data in real-time. This system aims to provide accurate and up-to-date weather information to users, enabling them to make informed decisions and take necessary precautions based on the current weather conditions. The system also helps in tracking and predicting weather patterns, providing early warning alerts for potential natural disasters, and im-proving the overall efficiency and effectiveness of weather-related activities.
 
 ### KEY ACTIVITIES
 1. Collects meteorological data.
